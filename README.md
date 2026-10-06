@@ -52,7 +52,8 @@ The Executive Dashboard provides an overview of the business performance through
 * Average Delivery Time: **12.5 Days**
 
 The dashboard also presents revenue trends, top revenue-generating categories, regional performance, and important business observations.
-<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/a97f36d0-104f-4c5d-8342-edc5c84c9a4f" />
+<img width="869" height="493" alt="image" src="https://github.com/user-attachments/assets/a9902bb3-4c89-4a0e-a1d4-ade7d369e59c" />
+
 
 ---
 
@@ -79,7 +80,8 @@ The analysis includes revenue by product category and a comparison between avera
 * Informática Acessórios
 * Móveis Decoração
 * Cool Stuff
-<img width="869" height="493" alt="image" src="https://github.com/user-attachments/assets/39624d91-04a0-475a-bc75-153047f75d0a" />
+<img width="875" height="497" alt="image" src="https://github.com/user-attachments/assets/e2875ce2-b505-4de8-b176-5af93331e352" />
+
 
 ---
 
@@ -95,7 +97,8 @@ The Region Analysis page examines revenue and order performance across Brazilian
 * Average Freight Value: **$20**
 
 The analysis shows that revenue is concentrated in a few major states, with **São Paulo generating approximately $5.8M**, followed by Rio de Janeiro and Minas Gerais.
-<img width="875" height="497" alt="image" src="https://github.com/user-attachments/assets/b4d7d414-e2ae-4afa-be21-372c9b40f0fe" />
+<img width="863" height="489" alt="image" src="https://github.com/user-attachments/assets/58aba867-c7f6-47cf-b69d-a6b348f07eee" />
+
 
 ---
 
@@ -113,7 +116,8 @@ The Delivery Analysis page evaluates delivery performance across different state
 The dashboard compares delivery performance across states and highlights regions with higher average delivery times.
 
 States such as **Roraima, Amapá, and Amazonas** show relatively high average delivery times in the dashboard.
-<img width="863" height="489" alt="image" src="https://github.com/user-attachments/assets/6a6945a5-2f9a-4751-822d-78af3666337b" />
+<img width="872" height="491" alt="image" src="https://github.com/user-attachments/assets/fbfef9d8-53d9-4fd8-897e-a9ba249699de" />
+
 
 ---
 
@@ -122,7 +126,8 @@ States such as **Roraima, Amapá, and Amazonas** show relatively high average de
 The Revenue Decomposition page provides a detailed breakdown of product revenue by category, seller state, and order year.
 
 The visualization allows revenue to be analyzed across multiple dimensions, helping identify the contribution of different product categories and regions to overall revenue.
-<img width="872" height="491" alt="image" src="https://github.com/user-attachments/assets/e20b01ba-1d43-4b83-93d6-95f0c36cdc60" />
+<img width="872" height="495" alt="image" src="https://github.com/user-attachments/assets/a27c2e00-b488-4276-a9dd-dff75615b184" />
+
 
 ---
 
@@ -139,7 +144,8 @@ Based on the dashboard analysis:
 * Approximately **7K orders** are identified as late.
 * Roraima, Amapá, and Amazonas show some of the highest average delivery times in the dashboard.
 * The dashboard indicates that regional delivery performance is an important area for further operational analysis.
-<img width="872" height="489" alt="image" src="https://github.com/user-attachments/assets/404a4533-ef80-4d73-b29e-63672c4f6b51" />
+<img width="872" height="489" alt="image" src="https://github.com/user-attachments/assets/e88d411d-6014-4bc6-ab4d-b8ebccd47d33" />
+
 
 ---
 
